@@ -3,8 +3,10 @@ CV yayınlamak için php ile yazılmış olan script.
 
 ## Ekran Görüntüleri
 
-Şifreli Giriş -> https://kisaurl.net/5UQd\
-Anasayfa -> https://kisaurl.net/ciIl\
+Şifreli Giriş -> https://kisaurl.net/5UQd
+
+Anasayfa -> https://kisaurl.net/ciIl
+
 Yönetim Paneli -> https://kisaurl.net/9kzG
 
 ## Veritabanı Ayarları
