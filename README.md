@@ -28,4 +28,4 @@ Kullanıcı Adı: admin
 Veritabanı oluşturup, config.php dosyasına bilgileri girdikten sonra ana dizinde yer alan " cvresume.sql " dosyasını phpMyAdmin ile içeri aktarın.
 
 ## Uyarı
-Kurulum yaptıktan mutlaka yönetici şifrenizi değiştirin. Ayrıca güvenlik için " yonetim " klasörünün ismini değiştirmeyi unutmayın!
+Kurulum yaptıktan sonra mutlaka yönetici şifrenizi değiştirin. Ayrıca güvenlik için " yonetim " klasörünün ismini değiştirmeyi unutmayın!
